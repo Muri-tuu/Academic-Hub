@@ -1,2 +1,2 @@
-# Academic-Hub
+# Academic-Hub 
 A school management system !!
